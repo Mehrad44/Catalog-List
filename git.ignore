@@ -1,45 +1,20 @@
-# ---- .NET ----
+# .NET build folders
 bin/
 obj/
+
+# Visual Studio
+.vs/
 *.user
 *.suo
-*.cache
+
+# Logs
+logs/
 *.log
-*.vs/
-*.db
-*.db-shm
-*.db-wal
-Generated_Code/
 
-# ---- ASP.NET Core ----
-appsettings.Development.json
-appsettings.Local.json
-appsettings.*.json
-
-# ---- Angular ----
+# Angular
 Catalog.Web/node_modules/
 Catalog.Web/dist/
-Catalog.Web/.angular/
-Catalog.Web/.vscode/
-*.tsbuildinfo
 
-# ---- Logs ----
-*.log
-logs/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# ---- System Files ----
+# System files
+*.cache
 Thumbs.db
-Desktop.ini
-
-# ---- IDE ----
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# ---- Other ----
-*.env
-*.tmp
