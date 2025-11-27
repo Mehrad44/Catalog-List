@@ -1,0 +1,490 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\infrustructure\\security\\options\\corsoptionssetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\infrustructure\\security\\options\\corsoptionssetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\persentation\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\persentation\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\persentation\\requests\\searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\persentation\\requests\\searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\persentation\\requests\\filterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\persentation\\requests\\filterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\application\\products\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\application\\products\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\application\\contracts\\iproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\application\\contracts\\iproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\infrustructure\\persistence\\repositories\\productsqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\infrustructure\\persistence\\repositories\\productsqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\infrustructure\\persistence\\repositories\\sqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\infrustructure\\persistence\\repositories\\sqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\domain\\product\\iproductreposioty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\domain\\product\\iproductreposioty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\domain\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\domain\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\domain\\primitives\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\domain\\primitives\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\application\\contracts\\data\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\application\\contracts\\data\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\application\\contracts\\data\\querydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\application\\contracts\\data\\querydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\domain\\primitives\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\domain\\primitives\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\application\\products\\validator\\productforcreatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\application\\products\\validator\\productforcreatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\application\\products\\dtos\\productforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\application\\products\\dtos\\productforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\application\\products\\dtos\\productforcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\application\\products\\dtos\\productforcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\application\\products\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\application\\products\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\application\\products\\validator\\productforupdatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\application\\products\\validator\\productforupdatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\catalog.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\catalog.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\application\\products\\productmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\application\\products\\productmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\infrustructure\\persistence\\repositories\\productfakerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\infrustructure\\persistence\\repositories\\productfakerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\domain\\primitives\\contracts\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\domain\\primitives\\contracts\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\infrustructure\\persistence\\catalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\infrustructure\\persistence\\catalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|e:\\codes\\angular\\bardal\\app 6\\catalog.service\\catalog.service\\infrustructure\\persistence\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA3786-9313-4CE3-8017-BBA841801577}|Catalog.Service\\Catalog.Service.csproj|solutionrelative:catalog.service\\infrustructure\\persistence\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CorsOptionsSetup.cs",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Infrustructure\\Security\\Options\\CorsOptionsSetup.cs",
+              "RelativeDocumentMoniker": "Catalog.Service\\Infrustructure\\Security\\Options\\CorsOptionsSetup.cs",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Infrustructure\\Security\\Options\\CorsOptionsSetup.cs",
+              "RelativeToolTip": "Catalog.Service\\Infrustructure\\Security\\Options\\CorsOptionsSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T14:14:39.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductManager.cs",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Application\\Contracts\\IProductManager.cs",
+              "RelativeDocumentMoniker": "Catalog.Service\\Application\\Contracts\\IProductManager.cs",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Application\\Contracts\\IProductManager.cs",
+              "RelativeToolTip": "Catalog.Service\\Application\\Contracts\\IProductManager.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBYAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:25:35.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductEndPoints.cs",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Persentation\\ProductEndPoints.cs",
+              "RelativeDocumentMoniker": "Catalog.Service\\Persentation\\ProductEndPoints.cs",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Persentation\\ProductEndPoints.cs",
+              "RelativeToolTip": "Catalog.Service\\Persentation\\ProductEndPoints.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAlwHEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T20:56:04.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PagedList.cs",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Application\\Contracts\\Data\\PagedList.cs",
+              "RelativeDocumentMoniker": "Catalog.Service\\Application\\Contracts\\Data\\PagedList.cs",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Application\\Contracts\\Data\\PagedList.cs",
+              "RelativeToolTip": "Catalog.Service\\Application\\Contracts\\Data\\PagedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T09:53:44.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QueryData.cs",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Application\\Contracts\\Data\\QueryData.cs",
+              "RelativeDocumentMoniker": "Catalog.Service\\Application\\Contracts\\Data\\QueryData.cs",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Application\\Contracts\\Data\\QueryData.cs",
+              "RelativeToolTip": "Catalog.Service\\Application\\Contracts\\Data\\QueryData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:29:50.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilterRequest.cs",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Persentation\\Requests\\FilterRequest.cs",
+              "RelativeDocumentMoniker": "Catalog.Service\\Persentation\\Requests\\FilterRequest.cs",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Persentation\\Requests\\FilterRequest.cs",
+              "RelativeToolTip": "Catalog.Service\\Persentation\\Requests\\FilterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:56:17.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Domain\\Primitives\\Entity.cs",
+              "RelativeDocumentMoniker": "Catalog.Service\\Domain\\Primitives\\Entity.cs",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Domain\\Primitives\\Entity.cs",
+              "RelativeToolTip": "Catalog.Service\\Domain\\Primitives\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:13:09.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductSqlRepository.cs",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Infrustructure\\Persistence\\Repositories\\ProductSqlRepository.cs",
+              "RelativeDocumentMoniker": "Catalog.Service\\Infrustructure\\Persistence\\Repositories\\ProductSqlRepository.cs",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Infrustructure\\Persistence\\Repositories\\ProductSqlRepository.cs",
+              "RelativeToolTip": "Catalog.Service\\Infrustructure\\Persistence\\Repositories\\ProductSqlRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T17:35:51.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Catalog.Service\\DependencyInjection.cs",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\DependencyInjection.cs",
+              "RelativeToolTip": "Catalog.Service\\DependencyInjection.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:42:54.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Program.cs",
+              "RelativeDocumentMoniker": "Catalog.Service\\Program.cs",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Program.cs",
+              "RelativeToolTip": "Catalog.Service\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:29:57.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SqlRepository.cs",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Infrustructure\\Persistence\\Repositories\\SqlRepository.cs",
+              "RelativeDocumentMoniker": "Catalog.Service\\Infrustructure\\Persistence\\Repositories\\SqlRepository.cs",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Infrustructure\\Persistence\\Repositories\\SqlRepository.cs",
+              "RelativeToolTip": "Catalog.Service\\Infrustructure\\Persistence\\Repositories\\SqlRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T17:38:10.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Domain\\Product\\Product.cs",
+              "RelativeDocumentMoniker": "Catalog.Service\\Domain\\Product\\Product.cs",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Domain\\Product\\Product.cs",
+              "RelativeToolTip": "Catalog.Service\\Domain\\Product\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:40:04.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchRequest.cs",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Persentation\\Requests\\SearchRequest.cs",
+              "RelativeDocumentMoniker": "Catalog.Service\\Persentation\\Requests\\SearchRequest.cs",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Persentation\\Requests\\SearchRequest.cs",
+              "RelativeToolTip": "Catalog.Service\\Persentation\\Requests\\SearchRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:14:57.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductReposioty.cs",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Domain\\Product\\IProductReposioty.cs",
+              "RelativeDocumentMoniker": "Catalog.Service\\Domain\\Product\\IProductReposioty.cs",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Domain\\Product\\IProductReposioty.cs",
+              "RelativeToolTip": "Catalog.Service\\Domain\\Product\\IProductReposioty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:01:45.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Application\\Products\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Catalog.Service\\Application\\Products\\ProductManager.cs",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Application\\Products\\ProductManager.cs",
+              "RelativeToolTip": "Catalog.Service\\Application\\Products\\ProductManager.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAA2wLwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:26:27.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Domain\\Primitives\\Contracts\\IRepository.cs",
+              "RelativeDocumentMoniker": "Catalog.Service\\Domain\\Primitives\\Contracts\\IRepository.cs",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Domain\\Primitives\\Contracts\\IRepository.cs",
+              "RelativeToolTip": "Catalog.Service\\Domain\\Primitives\\Contracts\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:26:43.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductForUpdateDto.cs",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Application\\Products\\Dtos\\ProductForUpdateDto.cs",
+              "RelativeDocumentMoniker": "Catalog.Service\\Application\\Products\\Dtos\\ProductForUpdateDto.cs",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Application\\Products\\Dtos\\ProductForUpdateDto.cs",
+              "RelativeToolTip": "Catalog.Service\\Application\\Products\\Dtos\\ProductForUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T15:54:28.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Application\\Products\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Catalog.Service\\Application\\Products\\Dtos\\ProductDto.cs",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Application\\Products\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "Catalog.Service\\Application\\Products\\Dtos\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T05:00:37.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductForCreateValidator.cs",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Application\\Products\\Validator\\ProductForCreateValidator.cs",
+              "RelativeDocumentMoniker": "Catalog.Service\\Application\\Products\\Validator\\ProductForCreateValidator.cs",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Application\\Products\\Validator\\ProductForCreateValidator.cs",
+              "RelativeToolTip": "Catalog.Service\\Application\\Products\\Validator\\ProductForCreateValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:15:40.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductForCreateDto.cs",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Application\\Products\\Dtos\\ProductForCreateDto.cs",
+              "RelativeDocumentMoniker": "Catalog.Service\\Application\\Products\\Dtos\\ProductForCreateDto.cs",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Application\\Products\\Dtos\\ProductForCreateDto.cs",
+              "RelativeToolTip": "Catalog.Service\\Application\\Products\\Dtos\\ProductForCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:44:55.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductForUpdateValidator.cs",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Application\\Products\\Validator\\ProductForUpdateValidator.cs",
+              "RelativeDocumentMoniker": "Catalog.Service\\Application\\Products\\Validator\\ProductForUpdateValidator.cs",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Application\\Products\\Validator\\ProductForUpdateValidator.cs",
+              "RelativeToolTip": "Catalog.Service\\Application\\Products\\Validator\\ProductForUpdateValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T15:59:57.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Catalog.Service.csproj",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Catalog.Service.csproj",
+              "RelativeDocumentMoniker": "Catalog.Service\\Catalog.Service.csproj",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Catalog.Service.csproj",
+              "RelativeToolTip": "Catalog.Service\\Catalog.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-06T20:56:38.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductMapper.cs",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Application\\Products\\ProductMapper.cs",
+              "RelativeDocumentMoniker": "Catalog.Service\\Application\\Products\\ProductMapper.cs",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Application\\Products\\ProductMapper.cs",
+              "RelativeToolTip": "Catalog.Service\\Application\\Products\\ProductMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:30:46.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductFakeRepository.cs",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Infrustructure\\Persistence\\Repositories\\ProductFakeRepository.cs",
+              "RelativeDocumentMoniker": "Catalog.Service\\Infrustructure\\Persistence\\Repositories\\ProductFakeRepository.cs",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Infrustructure\\Persistence\\Repositories\\ProductFakeRepository.cs",
+              "RelativeToolTip": "Catalog.Service\\Infrustructure\\Persistence\\Repositories\\ProductFakeRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwDMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T16:31:02.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Domain\\Primitives\\Contracts\\IEntity.cs",
+              "RelativeDocumentMoniker": "Catalog.Service\\Domain\\Primitives\\Contracts\\IEntity.cs",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Domain\\Primitives\\Contracts\\IEntity.cs",
+              "RelativeToolTip": "Catalog.Service\\Domain\\Primitives\\Contracts\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:36:02.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CatalogContext.cs",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Infrustructure\\Persistence\\CatalogContext.cs",
+              "RelativeDocumentMoniker": "Catalog.Service\\Infrustructure\\Persistence\\CatalogContext.cs",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Infrustructure\\Persistence\\CatalogContext.cs",
+              "RelativeToolTip": "Catalog.Service\\Infrustructure\\Persistence\\CatalogContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:39:26.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\appsettings.json",
+              "RelativeDocumentMoniker": "Catalog.Service\\appsettings.json",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\appsettings.json",
+              "RelativeToolTip": "Catalog.Service\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T10:54:59.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Catalog.Service\\appsettings.Development.json",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\appsettings.Development.json",
+              "RelativeToolTip": "Catalog.Service\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T10:55:02.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Infrustructure\\Persistence\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "Catalog.Service\\Infrustructure\\Persistence\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "E:\\Codes\\Angular\\Bardal\\App 6\\Catalog.Service\\Catalog.Service\\Infrustructure\\Persistence\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "Catalog.Service\\Infrustructure\\Persistence\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:56:20.096Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

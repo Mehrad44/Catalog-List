@@ -1,0 +1,54 @@
+<h2 mat-dialog-title>Edit Product ({{product.name}})</h2>
+@if(isLoading){
+<mat-progress-bar mode="indeterminate"></mat-progress-bar>
+}
+
+<mat-dialog-content [formGroup]="productForm">
+    <mat-form-field class="c1">
+        <mat-label>Name</mat-label>
+        <input type="text"
+               matInput
+               formControlName="name">
+        <mat-hint>Sample name help text ...</mat-hint>
+        @if(name.invalid){
+        <mat-error>
+            {{getNameError()}}
+        </mat-error>
+        }
+    </mat-form-field>
+    <mat-form-field class="c1">
+        <mat-label>Price</mat-label>
+        <input type="number"
+               matInput
+               formControlName="price">
+        @if(name.hasError('required')){
+        <mat-error>
+            Price is a required field
+        </mat-error>
+        }
+        @if(name.hasError('pattern')){
+        <mat-error>
+            Price is a numeric value
+        </mat-error>
+        }
+    </mat-form-field>
+    <mat-form-field class="c1">
+        <mat-label>Description</mat-label>
+        <textarea type="text"
+                  matInput
+                  formControlName="description"></textarea>
+    </mat-form-field>
+</mat-dialog-content>
+<mat-dialog-actions align="end">
+    <button mat-raised-button
+            color="primary"
+            (click)="save()"
+            [disabled]="isLoading">
+        <mat-icon>save</mat-icon>
+        Save</button>
+    <button mat-raised-button
+            color="secondary"
+            (click)="cancel()">
+        <mat-icon>cancel</mat-icon>
+        Cancel</button>
+</mat-dialog-actions>

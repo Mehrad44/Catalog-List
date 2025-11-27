@@ -1,0 +1,79 @@
+<div class="container">
+    <button class="btn btn-primary mt-1"
+            (click)="add()">Add</button>
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">FirstName</th>
+                <th scope="col">LastName</th>
+                <th scope="col">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (profile of profiles; track $index) {
+            <tr>
+                <th scope="row">{{profile.id}}</th>
+                <td>{{profile.firstName}}</td>
+                <td>{{profile.lastName}}</td>
+                <td>
+                    <button class="btn btn-warning me-1" (click)="edit(profile)">Edit</button>
+                    <button class="btn btn-danger" (click)="delete(profile.id)">Delete</button>
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+    @if(showForm){
+    <fieldset>
+        <legend>Profile Information</legend>
+        <form #profileForm="ngForm"
+              (ngSubmit)="save(profileForm)">
+            <div class="mb-3">
+                <label for="firstName"
+                       class="form-label">First Name</label>
+                <input type="text"
+                       class="form-control"
+                       id="firstName"
+                       name="firstName"
+                       required
+                       minlength="3"
+                       #myFirstName="ngModel"
+                       [(ngModel)]="profile.firstName" />
+                @if(myFirstName.invalid && profileForm.submitted){
+                <div class="text-danger">
+                    @if(myFirstName.hasError('required')){
+                    <p>
+                        First Name is a required.
+                    </p>
+                    }
+                    @if(myFirstName.hasError('minlength')){
+                    <p>
+                        First Name should be a minimum 3 characters.
+                    </p>
+                    }
+                </div>
+                }
+
+            </div>
+            <div class="mb-3">
+                <label for="lastName"
+                       class="form-label">Last Name</label>
+                <input type="text"
+                       class="form-control"
+                       id="lastName"
+                       name="lastName"
+                       required
+                       minlength="3"
+                       #myLastName="ngModel"
+                       [(ngModel)]="profile.lastName" />
+            </div>
+            <button type="submit"
+                    class="btn btn-success me-1">Save</button>
+            <button type="reset"
+                    class="btn btn-secondary"
+                    (click)="cancel()">Cancel</button>
+        </form>
+    </fieldset>
+    }
+</div>

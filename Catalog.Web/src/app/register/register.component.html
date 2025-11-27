@@ -1,0 +1,48 @@
+<h2 mat-dialog-title>User Registration</h2>
+<mat-dialog-content [formGroup]="userForm"
+                    (ngSubmit)="register()">
+    <mat-form-field class="c1">
+        <mat-label>UserName</mat-label>
+        <input type="text"
+               matInput
+               formControlName="userName">
+        @if(userName.hasError('required')){
+        <mat-error>
+            UserName is a required field
+        </mat-error>
+        }
+        @if(userName.hasError('minlenght')){
+        <mat-error>
+            UserName must be at least 3 characters
+        </mat-error>
+        }
+    </mat-form-field>
+    <mat-form-field class="c1">
+        <mat-label>Password</mat-label>
+        <input type="password"
+               matInput
+               formControlName="password">
+        @if(password.hasError('required')){
+        <mat-error>
+            Password is a required field
+        </mat-error>
+        }
+        @if(password.hasError('minlenght')){
+        <mat-error>
+            Password must be at least 3 characters
+        </mat-error>
+        }
+    </mat-form-field>
+</mat-dialog-content>
+<mat-dialog-actions align="end">
+    <button mat-raised-button
+            color="primary"
+            (click)="register()">
+        <mat-icon>account_box</mat-icon>
+        Register</button>
+    <button mat-raised-button
+            color="secondary"
+            (click)="cancel()">
+        <mat-icon>cancel</mat-icon>
+        Cancel</button>
+</mat-dialog-actions>
