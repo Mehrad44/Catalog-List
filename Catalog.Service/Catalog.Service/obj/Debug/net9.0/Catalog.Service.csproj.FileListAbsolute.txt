@@ -356,3 +356,15 @@ D:\Codes\Angular\Bardal\App 6\Catalog.Service\Catalog.Service\obj\Debug\net9.0\C
 D:\Codes\Angular\Bardal\App 6\Catalog.Service\Catalog.Service\obj\Debug\net9.0\Catalog.Service.dll
 D:\Codes\Angular\Bardal\App 6\Catalog.Service\Catalog.Service\obj\Debug\net9.0\refint\Catalog.Service.dll
 D:\Codes\Angular\Bardal\App 6\Catalog.Service\Catalog.Service\obj\Debug\net9.0\Catalog.Service.pdb
+E:\Codes\Angular\Bardal\App 6\Catalogt-List\Catalog.Service\Catalog.Service\obj\Debug\net9.0\Catalog.Service.csproj.AssemblyReference.cache
+E:\Codes\Angular\Bardal\App 6\Catalogt-List\Catalog.Service\Catalog.Service\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\Codes\Angular\Bardal\App 6\Catalogt-List\Catalog.Service\Catalog.Service\obj\Debug\net9.0\Catalog.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\Angular\Bardal\App 6\Catalogt-List\Catalog.Service\Catalog.Service\obj\Debug\net9.0\Catalog.Service.AssemblyInfoInputs.cache
+E:\Codes\Angular\Bardal\App 6\Catalogt-List\Catalog.Service\Catalog.Service\obj\Debug\net9.0\Catalog.Service.AssemblyInfo.cs
+E:\Codes\Angular\Bardal\App 6\Catalogt-List\Catalog.Service\Catalog.Service\obj\Debug\net9.0\Catalog.Service.csproj.CoreCompileInputs.cache
+E:\Codes\Angular\Bardal\App 6\Catalogt-List\Catalog.Service\Catalog.Service\obj\Debug\net9.0\Catalog.Service.MvcApplicationPartsAssemblyInfo.cs
+E:\Codes\Angular\Bardal\App 6\Catalogt-List\Catalog.Service\Catalog.Service\obj\Debug\net9.0\Catalog.Service.MvcApplicationPartsAssemblyInfo.cache
+E:\Codes\Angular\Bardal\App 6\Catalogt-List\Catalog.Service\Catalog.Service\obj\Debug\net9.0\Catalog.Service.sourcelink.json
+E:\Codes\Angular\Bardal\App 6\Catalogt-List\Catalog.Service\Catalog.Service\obj\Debug\net9.0\Catalog.Service.dll
+E:\Codes\Angular\Bardal\App 6\Catalogt-List\Catalog.Service\Catalog.Service\obj\Debug\net9.0\refint\Catalog.Service.dll
+E:\Codes\Angular\Bardal\App 6\Catalogt-List\Catalog.Service\Catalog.Service\obj\Debug\net9.0\Catalog.Service.pdb
